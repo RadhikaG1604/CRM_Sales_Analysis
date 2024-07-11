@@ -19,7 +19,7 @@ In this project, we aim to develop an interactive dashboard using Google Sheets 
 3. Building the dashboard:
    The final phase focused on visualizing insights through interactive charts and adding filters for regional offices and sales managers.
 
-Detailed analysis can be viewed [here](https://docs.google.com/spreadsheets/d/1521SgetCDsymTiDMGmCd5Yd7veaobpdblM2rp4LZOFo/edit#gid=1718713219)!
+Detailed analysis and the dashboard can be viewed [here](https://docs.google.com/spreadsheets/d/1521SgetCDsymTiDMGmCd5Yd7veaobpdblM2rp4LZOFo/edit#gid=1718713219)!
 
 ## Key Insights and Recommendations
 
@@ -27,8 +27,12 @@ Detailed analysis can be viewed [here](https://docs.google.com/spreadsheets/d/15
 There is a clear increasing trend in the number of opportunities won from Q1 to Q4 of 2017.
 
 2. Opportunities Won and Lost in Each Quarter: Across all quarters, the percentage of opportunities lost consistently outweighed those won. This shows a potential area of improvement in deal conversion rates, particularly in reducing lost opportunities
-   
-3. Opportunities Won in Each Quarter by Each Sales Agent: Sales agents like Darcel Schlecht consistently outperformed others in terms of opportunities won across all quarters, with a total of 349 opportunities won. This indicates high variability in performance among sales agents, highlighting potential for sharing best practices or providing additional support to lower-performing agents.
+
+<img src="Won_Lost_Table.png" width="350"/>            <img src="Lost_Won_Chart.png" width="500"/>
+
+3. Opportunities Won in Each Quarter by Each Sales Agent: Sales agents like Darcel Schlecht consistently outperformed others in terms of opportunities won across all quarters, with a total of 349 opportunities won. This indicates high variability in performance among sales agents, highlighting potential for sharing best practices or providing additional support to lower-performing agents. Few of the top sales agent include:
+
+<img src="Sales_Agent.png" width="500"/> 
 
 ## Recommendations
 
