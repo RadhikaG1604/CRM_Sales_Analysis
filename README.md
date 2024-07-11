@@ -28,11 +28,11 @@ There is a clear increasing trend in the number of opportunities won from Q1 to 
 
 2. Opportunities Won and Lost in Each Quarter: Across all quarters, the percentage of opportunities lost consistently outweighed those won. This shows a potential area of improvement in deal conversion rates, particularly in reducing lost opportunities
 
-<img src="Won_Lost_Table.png" width="500"/>            <img src="Lost_Won_Chart.png" width="350"/>
+<img src="Won_Lost_Table.png" width="600"/>            <img src="Lost_Won_Chart.png" width="300"/>
 
 3. Opportunities Won in Each Quarter by Each Sales Agent: Sales agents like Darcel Schlecht consistently outperformed others in terms of opportunities won across all quarters, with a total of 349 opportunities won. This indicates high variability in performance among sales agents, highlighting potential for sharing best practices or providing additional support to lower-performing agents. Few of the top sales agent include:
 
-<img src="Sales_Agent.png" width="500"/> 
+<img src="Sales_Agent.png" width="600"/> 
 
 ## Recommendations
 
